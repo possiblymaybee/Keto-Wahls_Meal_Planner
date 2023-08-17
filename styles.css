@@ -1,0 +1,17 @@
+nav {
+    background-color: rgb(174, 192, 174);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-item {
+    list-style-type: none;
+    padding: 20px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
